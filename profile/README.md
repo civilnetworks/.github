@@ -12,7 +12,7 @@ To find out more about us visit our website, where you can view latest news and 
 
 <img src="https://www.civilgamers.com/community/data/assets/logo/cn_logo_transparent_64.png" width="20" height="20">[   Check Out Our Forums](https://www.civilgamers.com/community/)
 
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="20" height="20"> [Join the Network Discord!](https://discord.gg/ERHYg5X)
+<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="20" height="20"> [Join the Network Discord!](https://discord.gg/civilnetworks)
 
 <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="20" height="20"> [Join the Military RP Discord!](https://discord.gg/fYfNswGrnZ)
 
