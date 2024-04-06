@@ -30,3 +30,5 @@ To expand our ways of being more transparent with the community as to what's goi
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/github.svg" width="20" height="20"> [MilitaryRP Development Tracker](https://github.com/orgs/civilnetworks-projects/projects/1)
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/github.svg" width="20" height="20"> [DarkRP Development Tracker](https://github.com/orgs/civilnetworks-projects/projects/5)
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/github.svg" width="20" height="20"> [Network Development Tracker](https://github.com/orgs/civilnetworks-projects/projects/9)
