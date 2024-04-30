@@ -8,9 +8,9 @@ We host various servers, including MilitaryRP, SCP RP, Dark RP, Rust and Clone W
 
 To find out more about us visit our website, where you can view latest news and info about our server, talk to the community and get involved!
 
-<img src="https://www.civilgamers.com/community/data/assets/logo/cn_logo_transparent_64.png" width="20" height="20">[Check Out Our Website](https://www.civilnetworks.net/)
+<img src="https://civilnetworks.net/community/data/assets/logo/cn_logo_transparent_64.png" width="20" height="20">[Check Out Our Website](https://civilnetworks.net/)
 
-<img src="https://www.civilgamers.com/community/data/assets/logo/cn_logo_transparent_64.png" width="20" height="20">[   Check Out Our Forums](https://www.civilgamers.com/community/)
+<img src="https://civilnetworks.net/community/data/assets/logo/cn_logo_transparent_64.png" width="20" height="20">[   Check Out Our Forums](https://civilnetworks.net/community/)
 
 <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="20" height="20"> [Join the Network Discord!](https://discord.gg/civilnetworks)
 
@@ -30,3 +30,5 @@ To expand our ways of being more transparent with the community as to what's goi
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/github.svg" width="20" height="20"> [MilitaryRP Development Tracker](https://github.com/orgs/civilnetworks-projects/projects/1)
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/github.svg" width="20" height="20"> [DarkRP Development Tracker](https://github.com/orgs/civilnetworks-projects/projects/5)
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d3a7818c253fcbafff9ebd1d4abb2866c192e1d7/svgs/brands/github.svg" width="20" height="20"> [Network Development Tracker](https://github.com/orgs/civilnetworks-projects/projects/9)
