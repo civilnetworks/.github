@@ -14,13 +14,7 @@ To find out more about us visit our website, where you can view latest news and 
 
 <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="20" height="20"> [Join the Network Discord!](https://discord.gg/civilnetworks)
 
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="20" height="20"> [Join the Military RP Discord!](https://discord.gg/fYfNswGrnZ)
-
 <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="20" height="20"> [Join the SCP RP Discord!](https://discord.gg/McbB6e2UFq)
-
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="20" height="20"> [Join the Dark RP Discord!](https://discord.gg/kYyrHU4hhN)
-
-<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png" width="20" height="20"> [Join the Rust Discord!](https://discord.gg/ytf3m8Vuh9)
 
 Development Trackers
 To expand our ways of being more transparent with the community as to what's going on in the background, we moved over from our private Trello, to a public Github Development tracker. This will allow Developers to display much of our backlog for everyone to see, whilst still keeping sensitive or secret tickets private and hidden from view. This allows players to have a better understanding of what plans we have in future, and what issues we have already triaged before you create new suggestions.
