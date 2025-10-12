@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/LfHPWyv.png" />
+  <img src="https://images.civilservers.net/imgs/16c45ad9b114b239.webp" />
 </p>
 
 Civil Networks offers you a brand new roleplay experience. Rich with innovative, engaging and exciting content, hand-crafted since 2013 by our many talented developers. We strive to create a truly unique and refreshing approach to the roleplay meta.
